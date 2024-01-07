@@ -1,5 +1,7 @@
 # Unicode Emoji
 
+[![PyPI version](https://badge.fury.io/py/UnicodeEmoji.svg)](https://badge.fury.io/py/UnicodeEmoji)
+
 This library provides all unicode emojis as an enum. You can use it to:
 
 * Turn emojis into descriptions;
